@@ -1,6 +1,6 @@
 # Creditworthiness Assessment for Credit Card Issuance
 
-Assessing a customer's creditworthiness is crucial for financial institutions before granting credit. This project aims to classify customers based on their payment behaviors, especially focusing on the last six months.
+Assessing a customer's creditworthiness is crucial for financial institutions before granting credit. This project aims to classify customers based on their payment behaviors.
 
 ## Overview
 
